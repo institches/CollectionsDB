@@ -9,8 +9,8 @@ Install [Docker](https://www.docker.com/).
 Clone the repository:
 
 ```bash
-git clone -o upstream git@github.com:Medology/api.raven.com.git
-cd api.raven.com
+git clone -o upstream git@github.com:institches/CollectionsDB.git
+cd CollectionsDB
 ```
 
 Start the raven Docker Containers:
